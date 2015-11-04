@@ -1,0 +1,23 @@
+name: Michael Crosbie
+favicon: null
+layout_spectrum: 0.027982381405308843
+typography_spectrum: 0.33977447100915015
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.2588522743899375
+  lightness: 0.1852484371047467
+  saturation: 0.4361211128998548
+  rhythmicContrast: 0.37823734036646783
+purpose: []
