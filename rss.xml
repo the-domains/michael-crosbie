@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Michael Crosbie]]></title>
+        <description><![CDATA[Michael Crosbie]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 04 Nov 2015 21:25:19 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Contact Energy Website]]></title>
+            <description><![CDATA[<article><h1>Contact Energy Website</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f6873235-a017-4707-a5f5-f1f1d04627c4.jpg"></article>]]></description>
+            <link>undefinedcontact-energy-website/index.html</link>
+            <guid isPermaLink="false">6192ca49-4419-4a55-ab23-c657b4a35b3c</guid>
+            <pubDate>Wed, 04 Nov 2015 21:25:18 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
